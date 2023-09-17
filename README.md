@@ -27,3 +27,14 @@ I'm an experienced technologist with a strong background in Linux systems and cl
 My love for technology is matched only by my dedication to excellence. I'm constantly learning and exploring new horizons in the tech world. If you're as passionate about technology and innovation as I am, let's connect and embark on a technical adventure together! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue)](https://www.linkedin.com/in/givaldolins/)
+
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=givaldolins&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=givaldolins&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=givaldolins&icon=3&color=2)](https://visitcount.itsvg.in)
+
